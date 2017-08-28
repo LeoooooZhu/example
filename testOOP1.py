@@ -2,7 +2,7 @@
 # -*- coding:utf-8 -*-
 
 __author__ = "Leooooo Zhu"
-__doc__ = "py3面向对象编程第三章案例学习.房地产应用程序，允许一个代理来管理用于购买或者租赁的房产.卡住了，P79页。"
+__doc__ = "py3面向对象编程第三章案例学习.房地产应用程序，允许一个代理来管理用于购买或者租赁的房产.卡住了，P79页。 练习git status and git diff"
 
 from get_valid_input import get_valid_input
 
